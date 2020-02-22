@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmitDeneme", "UmitDeneme\UmitDeneme.csproj", "{349CD5E9-4ACF-4271-B9FC-54E9BFFBCCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349CD5E9-4ACF-4271-B9FC-54E9BFFBCCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349CD5E9-4ACF-4271-B9FC-54E9BFFBCCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349CD5E9-4ACF-4271-B9FC-54E9BFFBCCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349CD5E9-4ACF-4271-B9FC-54E9BFFBCCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876A8A2A-2A5B-46D8-B399-9C038DFB113D}
+	EndGlobalSection
+EndGlobal
